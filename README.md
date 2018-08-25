@@ -1,2 +1,2 @@
 # TwoSum
-Given an integer array, the two_sum function checks if there exists sum of two elements equals a given number
+Given an integer array or vector, the two_sum function checks if there exists sum of two elements that equals a given number
